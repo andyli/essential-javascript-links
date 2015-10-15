@@ -116,9 +116,12 @@ Some of these links are affiliate links, meaning that if you make a purchase, I 
 ### Transpilers
 
 * [Babel](https://github.com/babel/babel) Transpile ES2015 (ES6), ES7 to ES5, JSX to React
-* [CoffeeScript](http://coffeescript.org/)
+* [TypeScript](http://www.typescriptlang.org/) A language that adds static typing to JavaScript
+* [CoffeeScript](http://coffeescript.org/) A language with Python/Ruby style syntax that compiles to JavaScript
+* [Haxe](http://haxe.org/) A language with JS-like syntax, static typing, compiles to JS, Java, C#, PHP, C++, Python...
 * [Emscripten](http://kripken.github.io/emscripten-site/) Frequently used for C/C++ JavaScript ports
 * [ES6 tools](https://github.com/addyosmani/es6-tools) Addy Osmani's ES6 Tools list
+* [List of languages that compile to JS](https://github.com/jashkenas/coffeescript/wiki/List-of-languages-that-compile-to-JS) Maintained within the CoffeeScript's Github wiki
 
 
 ## JavaScript environments
